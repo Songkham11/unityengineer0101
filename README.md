@@ -2,7 +2,7 @@
 
 - 📂 Portfolio Website: [Website](https://unityengineer0101.github.io/)
 - 💬 Telegram : [@unityengineer0101](https://t.me/unityengineer0101)
-- 💬 Discord: tonywilson0727
+- 💬 Discord: unityengineer0101
 - 💌 Email : [unityengineer0101@gmail.com](mailto:unityengineer0101@gmail.com)
 - 💻 Online Resume: [Resume](https://drive.google.com/file/d/1eKQ4FGnpG1WIFByjQ5hxDqtwNPyQTODs/view?usp=sharing)
 
